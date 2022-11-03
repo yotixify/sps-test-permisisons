@@ -1,1 +1,1 @@
-# sps-test-permisisons
+# sps-test-permissions
